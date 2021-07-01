@@ -8,6 +8,9 @@ public class Second {
 		System.out.println("Hi in second Class");
 		System.out.println("This will cause conflict");
 		
+		System.out.println("Changes from dev branch");
+		
+		
 	}
 
 }
