@@ -10,6 +10,8 @@ public class First {
 	
 		System.out.println("Hello Git");
 		
+		System.out.println("Checkin from master");
+		
 	}
 
 }
